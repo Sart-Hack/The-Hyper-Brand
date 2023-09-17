@@ -131,14 +131,14 @@ export default function Hero() {
               fugiat veniam occaecat fugiat aliqua.
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
-              <a
+              {/* <a
                 href="https://calendly.com/contact-tnc/30min"
                 className="rounded-md bg-[#0aa8a7] px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
               >
                 Book a Meeting
-              </a>
+              </a> */}
 
-              <a href="https://docs.google.com/forms/d/e/1FAIpQLSehW8UCdFB5ecNjdXRhOAE6-8LRBE3o1S7nc0IuGNjZwTzMWw/viewform?usp=sf_link" className="text-sm font-semibold leading-6 text-gray-900">
+              <a href="https://docs.google.com/forms/d/e/1FAIpQLSehW8UCdFB5ecNjdXRhOAE6-8LRBE3o1S7nc0IuGNjZwTzMWw/viewform?usp=sf_link" className="rounded-md bg-[#0aa8a7] px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">
                 Get Your Free SEO Optimized Blog!<span aria-hidden="true">→</span>
               </a>
             </div>

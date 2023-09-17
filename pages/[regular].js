@@ -32,6 +32,12 @@ const RegularPages = ({ data }) => {
       ) : (
         <Default data={data} />
       )}
+      {/* floating button */}
+      <div class="fixed bottom-4 right-4">
+        <button class="bg-[#0aa8a7] hover:bg-blue-600 text-white font-bold py-2 px-4 rounded-full shadow-lg">
+          Book a Meeting
+        </button>
+      </div>
     </Base>
   );
 };
