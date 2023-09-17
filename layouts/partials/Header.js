@@ -26,7 +26,9 @@ const Header = () => {
         {/* <div className="order-0">
           <Logo src={logo} />
         </div> */}
-        <div><h4>The Hyper Brand</h4></div>
+        <Link href="/" aria-label="Bigspring">
+          <h4>The Hyper Brand</h4>
+        </Link>
 
         {/* navbar toggler */}
         <button
@@ -53,9 +55,8 @@ const Header = () => {
         {/* Menu */}
         <div
           id="nav-menu"
-          className={`order-3 md:order-1 ${
-            navOpen ? "max-h-[1000px]" : "max-h-0"
-          }`}
+          className={`order-3 md:order-1 ${navOpen ? "max-h-[1000px]" : "max-h-0"
+            }`}
         >
           <ul className="navbar-nav block w-full md:flex md:w-auto lg:space-x-2">
             {main.map((menu, i) => (
@@ -86,9 +87,8 @@ const Header = () => {
                     <Link
                       href={menu.url}
                       onClick={() => setNavOpen(false)}
-                      className={`nav-link block ${
-                        router.asPath === menu.url ? "nav-link-active" : ""
-                      }`}
+                      className={`nav-link block ${router.asPath === menu.url ? "nav-link-active" : ""
+                        }`}
                     >
                       {menu.name}
                     </Link>
