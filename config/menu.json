@@ -15,10 +15,6 @@
     {
       "name": "Contact",
       "url": "/contact"
-    },
-    {
-      "name": "FAQ",
-      "url": "/faq"
     }
   ],
   "footer": [
@@ -43,10 +39,6 @@
           "url": "#"
         },
         {
-          "text": "Platform",
-          "url": "#"
-        },
-        {
           "text": "Pricing",
           "url": "/pricing"
         }
@@ -56,8 +48,8 @@
       "name": "Support",
       "menu": [
         {
-          "text": "FAQ",
-          "url": "/faq"
+          "text": "Contact Us",
+          "url": "/contact"
         },
         {
           "text": "Privacy Policy",

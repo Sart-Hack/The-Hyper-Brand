@@ -23,20 +23,20 @@ banner:
 
 # feature
 feature: 
-  title: What We Do
+  title: What do we do?
   features:
-  - name: " SEO Optimized blog creation"
+  - name: "Create SEO Optimized Blogs"
     icon: "/images/code.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Optimize your blogs"
-    icon: "/images/oop.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: "Using the power of AI, we do extensive keyword research, selection, and write original content"
+  # - name: "Optimize your existing blogs"
+  #   icon: "/images/oop.svg"
+  #   content: "Don't know where to start? Schedule an SEO audit with us and let us guide you"
   - name: "Content For Newsletters"
     icon: "/images/user-clock.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  # - name: "Value for Money"
-  #   icon: "/images/love.svg"
-  #   content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: "We will choose the best topics and customize the content to your brand to deliver the most authentic and engaging newsletter."
+  - name: "SEO Analysis"
+    icon: "/images/love.svg"
+    content: " Receive detailed SEO analysis reports for each piece of content, helping you understand its performance and make necessary improvements."
   # - name: "Faster Response"
   #   icon: "/images/speedometer.svg"
   #   content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
@@ -47,18 +47,18 @@ feature:
 feature2: 
   title: Why us?
   features:
-  - name: " SEO Score"
+  - name: "High scoring SEO Content"
     icon: "/images/code.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Plag Score"
+    content: "Our content consistently scores more than 9 over 10 for SEO optimization - one of the highest in the industry."
+  - name: "Original and Plagiarism free"
     icon: "/images/oop.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: "Our content is original and unique consistently scoring less than 2% on the plagiarism checker"
   # - name: "Content For Newsletters"
   #   icon: "/images/user-clock.svg"
   #   content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Value for Money"
+  - name: "Customized for your brand"
     icon: "/images/love.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: "We customize the content to your brand, tone, and the intent of your users. All of this while ensuring that we follow all the Google content guidelines"
   # - name: "Faster Response"
   #   icon: "/images/speedometer.svg"
   #   content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
@@ -119,11 +119,11 @@ workflow:
 
 # call_to_action
 call_to_action:
-  title: Ready to get started?
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur.
+  title: Don't know where to start?
+  content: Schedule an SEO audit with us for your website and let us guide you.
   image: '/images/cta.svg'
   button:
     enable: true
-    label: "Contact Us"
-    link: "/contact"
+    label: "Book a meet"
+    link: "https://calendly.com/thehyperbrand/onboarding"
 ---

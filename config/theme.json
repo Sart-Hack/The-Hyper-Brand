@@ -15,7 +15,7 @@
   },
   "fonts": {
     "font_family": {
-      "primary": "Lato:wght@300;400;700",
+      "primary": "Poppins:wght@300;400;700",
       "primary_type": "sans-serif"
     },
     "font_size": {
@@ -23,4 +23,5 @@
       "scale": "1.250"
     }
   }
+  
 }

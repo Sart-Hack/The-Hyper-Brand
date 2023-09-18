@@ -18,13 +18,13 @@
   "nav_button": {
     "enable": true,
     "label": "Book a Meeting",
-    "link": "https://calendly.com/contact-tnc"
+    "link": "https://calendly.com/thehyperbrand/onboarding"
   },
 
   "params": {
     "contact_form_action": "https://www.formbackend.com/f/d2b59851e3c46ce7",
     "tag_manager_id": "",
-    "footer_content": "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur.",
+    "footer_content": "We create SEO optimized content for your business that will increase your search engine rankings and drive more traffic to your website.",
     "copyright": "Designed and Developed By [The Hyper Brand](https://TheHyperBrand.com/)"
   },
 
