@@ -5,7 +5,7 @@ draft: false
 plans:
 - title: Basic Plan
   subtitle: Best For Individuals and Startups
-  price: ₹10,000/
+  price: ₹15,000/
   type: month
   features:
     - 30 content credits
